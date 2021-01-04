@@ -1,0 +1,66 @@
+baseURL = "https://chrisdburr.github.io"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Christopher Burr - Personal Portfolio"
+theme = "anatole"
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+title = "Dr Christopher Burr"
+author = "Christopher Burr"
+description = "Ethics Fellow, Alan Turing Institute"
+profilePicture = "/images/profile.png"
+keywords = "philosophy, data ethics, cognitive science, HCI"
+mainSections = ["home"]
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 200
+  identifier = "blog"
+  url = "/blog/"
+
+  [[menu.main]]
+  name = "CV"
+  weight = 300
+  identifier = "cv"
+  url = "/cv/"
+
+[params.math]
+enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/chrisdburr"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/christopherdburr"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/chrisdburr"
+
+[[params.socialIcons]]
+icon = "fab fa-google"
+title = "Google Scholar"
+url = "https://scholar.google.com/citations?user=dEkERv4AAAAJ&hl=en"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:cburr@turing.ac.uk"
