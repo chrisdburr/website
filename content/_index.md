@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Dr Christopher Burr - Personal Website"
 date: 2021-01-01T11:19:34Z
 draft: false
 ---
