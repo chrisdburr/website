@@ -50,6 +50,12 @@ draft: false
 - Burr, C. (2017). "Embodied Decisions and the Predictive Brain". In Metzinger, T., and Wiese, W. (Eds.) OpenMIND: The Philosophy of Predictive Processing.
   - [Published Version (Open Access)](https://philpapers.org/go.pl?id=BUREDA-4&proxyId=none&u=https%3A%2F%2Fpredictive-mind.net%2Fpapers%2Fembodied-decisions-and-the-predictive-brain%2Fat_download%2FpaperPDF)
 
+### PhD thesis
+
+- Burr, C. (2016). Embodied Decisions and the Predictive Brain. University of Bristol.
+  - [PDF](https://philpapers.org/archive/BUREDA-5.pdf)
+  - [University of Bristol Record](https://bris.on.worldcat.org/oclc/1052833365)
+
 ### Conference Proceedings
 
 - Burr, C., & Keeling, G. (2018). Building machines that “learn and think” about morality. In Proceedings of the Society for Artificial Intelligence and the Simulation of Behaviour (AISB 2018).

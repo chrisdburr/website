@@ -14,6 +14,10 @@ profilePicture = "/images/profile.png"
 keywords = "philosophy, data ethics, cognitive science, HCI"
 mainSections = ["home"]
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [menu]
 
   [[menu.main]]
