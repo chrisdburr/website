@@ -2,7 +2,7 @@
 title: "Curated Bibliography"
 date: 2021-01-12T09:53:13Z
 draft: false
-categories: [personal development, ethical data science, resources]
+categories: [Ethical Data Science Journey, Personal Knowledge Management]
 tags: [PKM, bibliography, obsidian, extended mind]
 ---
 

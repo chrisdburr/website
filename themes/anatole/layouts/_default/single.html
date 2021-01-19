@@ -3,29 +3,27 @@
         <div class="post-content">
             <div class="post-title">
                 <h3>{{ .Title }}</h3>
-                {{ if eq .Type "post"}}
+                {{ if eq .Type "blog"}}
                     <div class="info">
                         <em class="fas fa-calendar-day"></em>
                         <span class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
                         <em class="fas fa-stopwatch"></em>
                         <span class="reading-time">{{ i18n "reading_time" .ReadingTime }}</span>
+                        <br>
+                        Categories: {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+                        Tags: {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
                     </div>
                 {{ end }}
             </div>
+          </div>
+
+          <hr>
 
             {{ .Content }}
 
             {{- if (eq .Params.contact true) -}}
               {{- partial "contact.html" . -}}
             {{- end -}}
-
-        </div>
-        <div class="post-footer">
-            <div class="info">
-                {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
-                {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
-            </div>
-        </div>
 
         {{ if eq .Type "post"}}
             {{ if .Site.DisqusShortname -}}

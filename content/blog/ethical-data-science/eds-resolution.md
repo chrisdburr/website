@@ -1,9 +1,9 @@
 ---
 title: "Ethical Data Science - A Plan for 2021"
 date: 2021-01-01T09:52:49Z
-draft: false
-categories: [personal development, ethical data science]
+categories: [Ethical Data Science Journey]
 tags: [resolution, new year, 2021, data science, upskilling]
+DisableComments: true
 ---
 
 ## New Year's Resolution
