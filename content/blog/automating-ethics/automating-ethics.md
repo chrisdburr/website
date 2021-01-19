@@ -38,11 +38,11 @@ Here, we are able to drill in on a possible source of concern. While the automat
 
 These challenges are just a selection, and also require further elaboration. The purpose of this series of blog posts will be to critically engage with them. However, identifying and evaluating these challenges first requires a way of mapping and delineating the key stages associated with the ML workflow. There are a variety of perspectives that we could take here. For example, the MLOps perspective adopted by Sweenor et al. (2020) gives rise to the following four steps, which they refer to as the Build, Manage, Deploy and Integrate, and Monitor process.[^sweenor]  
 
-{{< figure src="/images/ml-ops.png" alt="Steps in the process of operationalising data science. Reprinted from (Sweenor et al. 2020)." caption="Figure 1. Steps in the process of operationalising data science. Reprinted from (Sweenor et al. 2020).">}}
+{{< figure src="/images/ml-ops.png" alt="Steps in the process of operationalising data science. Reprinted from (Sweenor et al. 2020)." caption="Figure 1. Steps in the process of operationalising data science. Reprinted from (Sweenor et al. 2020)." width="100%">}}
 
 This schema serves a number of purposes, but it is not ideal for identifying and evaluating the ethical challenges that this series is interested in exploring. Instead, we will be building on a different framework, which breaks the ML workflow into a circular (and iterative) process of design, development, and deployment, with various sub-stages contained within this over-arching perspective:
 
-{{< figure src="/images/ml-workflow.png" alt="A schematic of the ML workflow as a process of design, development, and deployment." caption="Figure 2. The ML workflow as a process of design, development, and deployment." >}}
+{{< figure src="/images/ml-workflow.png" alt="A schematic of the ML workflow as a process of design, development, and deployment." caption="Figure 2. The ML workflow as a process of design, development, and deployment." width="100%" >}}
 
 As this series continues we will say a lot more about how this perspective helps to identify significant ethical issues in the design, development, and deployment of ML, as well as how it can help us to design better tools for the governance of data science and AI more generally. In doing so we will also uncover a variety of concerns about the automating of ethical deliberation, as well as the following topics and questions:
 

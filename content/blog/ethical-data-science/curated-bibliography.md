@@ -13,7 +13,7 @@ Fortunately, a couple of days ago, [Charlie Harry Smith](http://www.chsmith.co.u
 
 [^thanks]: Thanks, Charlie!
 
-{{< figure src="/images/obsidian.png" alt="A screenshot of the Obsidian software." caption="A screenshot of the Obsidian software." >}}
+{{< figure src="/images/obsidian.png" alt="A screenshot of the Obsidian software." caption="A screenshot of the Obsidian software." width="100%">}}
 
 For academic researchers, and other knowledge workers (e.g. authors), it is a superb piece of software that is at least partially designed to enable users to build a digital *Zettelkasten*—a knowledge management system made famous by the German sociologist Niklas Luhmann[^zettel]. Obsidian has plugged a gap that has, hitherto, existed in my research and writing workflow. I plan on writing a (detailed) series of blog posts in the future outlining this workflow, as I hope that it will be useful for other researchers, and will complement the many fantastic resources already available. For example, I have now managed to set up a way for recording notes on my iPhone (using dictation if necessary) that are automatically saved to Google Drive in markdown format and then accessible in Obsidian on my laptop, pre-formatted with relevant tags and variables. I will aim to put together a step-by-step guide soon.
 
