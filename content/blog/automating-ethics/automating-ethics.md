@@ -5,7 +5,7 @@ categories: [Automating Ethics]
 tags: [MLOps, data science]
 DisableComments: true
 ---
-***This is the first post in a series on the topic of automating ethical deliberation in data science and AI.***
+***This is the first post in a series on the topic of automating ethical deliberation in data science and AI. For the second post, [click here](/blog/automating-ethics/widening-the-sphere).***
 
 The philosophy and ethics of technology has a long tradition. In tracing this history, we could go all the way back to the Ancient Greek philosophers and the concept *technê*. Alternatively, we could explore Martin Heidegger's account of the relationship between technology and human existence (Dasein) as a starting point for modern phenomenological approaches to information and communication technologies. Or, we could begin with contemporary discussions and debates in science and technology studies that bridge the gap between philosophy, ethics, politics, law, sociology, and of course science.[^sep]
 
