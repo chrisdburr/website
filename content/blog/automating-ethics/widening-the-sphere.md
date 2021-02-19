@@ -1,5 +1,5 @@
 ---
-title: "Widening the Sphere of Ethical Considerations for ML Operationss"
+title: "Widening the Sphere of Ethical Considerations for ML Operations"
 date: 2021-02-19T12:31:39Z
 Tags: [MLOps, fairness, automation, ML lifecycle]
 Categories: [Automating Ethics]
