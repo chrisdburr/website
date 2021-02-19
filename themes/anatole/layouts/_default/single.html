@@ -7,10 +7,11 @@
                     <div class="info">
                         <em class="fas fa-calendar-day"></em>
                         <span class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-                        <em class="fas fa-stopwatch"></em>
-                        <span class="reading-time">{{ i18n "reading_time" .ReadingTime }}</span>
+                        <!--<em class="fas fa-stopwatch"></em>
+                        <span class="reading-time">{{ i18n "reading_time" .ReadingTime }}</span>-->
                         <br>
                         Categories: {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+                        <br>
                         Tags: {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
                     </div>
                 {{ end }}
